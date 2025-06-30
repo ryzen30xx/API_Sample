@@ -1,0 +1,27 @@
+{
+  "name": "api_sample",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ryzen30xx/API_Sample#readme",
+  "bugs": {
+    "url": "https://github.com/ryzen30xx/API_Sample/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryzen30xx/API_Sample.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0"
+  }
+}

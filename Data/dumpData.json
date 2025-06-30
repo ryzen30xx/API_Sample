@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt, David Thomas",
+        "genre": "Programming",
+        "price": 39.99,
+        "stock": 12,
+        "published": "1999-10-20",
+        "isbn": "978-0201616224"
+    },
+    {
+        "id": 2,
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "genre": "Programming",
+        "price": 34.95,
+        "stock": 8,
+        "published": "2008-08-01",
+        "isbn": "978-0132350884"
+    },
+    {
+        "id": 3,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "price": 18.99,
+        "stock": 20,
+        "published": "1960-07-11",
+        "isbn": "978-0061120084"
+    },
+    {
+        "id": 4,
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "price": 15.99,
+        "stock": 15,
+        "published": "1949-06-08",
+        "isbn": "978-0451524935"
+    },
+    {
+        "id": 5,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic",
+        "price": 14.99,
+        "stock": 10,
+        "published": "1925-04-10",
+        "isbn": "978-0743273565"
+    },
+    {
+        "id": 6,
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "genre": "Self-help",
+        "price": 21.99,
+        "stock": 18,
+        "published": "2018-10-16",
+        "isbn": "978-0735211292"
+    },
+    {
+        "id": 7,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "price": 17.99,
+        "stock": 7,
+        "published": "1937-09-21",
+        "isbn": "978-0547928227"
+    },
+    {
+        "id": 8,
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "genre": "Psychology",
+        "price": 16.99,
+        "stock": 13,
+        "published": "2011-10-25",
+        "isbn": "978-0374533557"
+    },
+    {
+        "id": 9,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Classic",
+        "price": 13.99,
+        "stock": 9,
+        "published": "1951-07-16",
+        "isbn": "978-0316769488"
+    },
+    {
+        "id": 10,
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "genre": "Productivity",
+        "price": 19.99,
+        "stock": 11,
+        "published": "2016-01-05",
+        "isbn": "978-1455586691"
+    }
+]
